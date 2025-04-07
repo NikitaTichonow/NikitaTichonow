@@ -11,7 +11,20 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikitaTichonow)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaTichonow)](https://github.com/NikitaTichonow/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaTichonow&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikitaTichonow&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaTichonow&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikitaTichonow&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikitaTichonow&theme=solarized_dark)
   
 
   
